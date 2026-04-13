@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/SaiPande/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,12 +44,14 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
