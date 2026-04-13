@@ -44,6 +44,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SaiPande/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Queue
 |  |
 | ------- |
