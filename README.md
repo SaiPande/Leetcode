@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
+| [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
@@ -36,6 +37,7 @@
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
+| [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -77,6 +79,7 @@
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
+| [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiPande/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SaiPande/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
