@@ -39,6 +39,7 @@
 | [0027-remove-element](https://github.com/SaiPande/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0020-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
