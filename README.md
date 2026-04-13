@@ -34,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/SaiPande/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SaiPande/Leetcode/tree/master/0066-plus-one) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
 | ------- |
