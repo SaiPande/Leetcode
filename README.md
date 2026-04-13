@@ -20,6 +20,7 @@
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -40,6 +41,7 @@
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -101,6 +103,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -168,4 +171,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SaiPande/Leetcode/tree/master/0175-combine-two-tables) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
