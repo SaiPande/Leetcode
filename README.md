@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/SaiPande/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
