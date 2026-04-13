@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -59,6 +61,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
+| [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -70,6 +73,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
+| [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
