@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SaiPande/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SaiPande/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/SaiPande/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SaiPande/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SaiPande/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
