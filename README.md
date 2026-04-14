@@ -37,6 +37,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/SaiPande/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -161,6 +162,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3110-score-of-a-string) |
