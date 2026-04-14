@@ -35,6 +35,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiPande/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/SaiPande/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -72,6 +73,7 @@
 | [1496-path-crossing](https://github.com/SaiPande/Leetcode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SaiPande/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -215,6 +217,7 @@
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/SaiPande/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
