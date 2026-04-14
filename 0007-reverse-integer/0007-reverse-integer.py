@@ -11,10 +11,7 @@ class Solution:
         while x1>0:
             stack.append(str(x1%10))
             x1//=10
-
-        reversednum = int(''.join(stack))
-        print(reversednum)
-        
+        reversednum = int(''.join(stack))       
         if isneg*reversednum <= -2**31 or isneg*reversednum >= (2**31-1):
             return 0
         return isneg*reversednum 
