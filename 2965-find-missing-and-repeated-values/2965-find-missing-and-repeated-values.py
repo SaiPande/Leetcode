@@ -7,13 +7,10 @@ class Solution:
         for i in grid:
             for j in i:
                 optlist.append(j)
-                if j not in seen:
-                    seen.add(j)
+        setsum = sum(set(optlist))        
 
         total = (n*(n+1))//2
         actualsum = sum(optlist)
-        setsum = sum(seen)
-
         twice = total - actualsum
         missing = total - setsum
 
