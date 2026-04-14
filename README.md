@@ -92,6 +92,7 @@
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0824-goat-latin](https://github.com/SaiPande/Leetcode/tree/master/0824-goat-latin) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiPande/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-occurrences-after-bigram](https://github.com/SaiPande/Leetcode/tree/master/1078-occurrences-after-bigram) |
