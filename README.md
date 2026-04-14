@@ -103,6 +103,7 @@
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -250,6 +251,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiPande/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SaiPande/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
