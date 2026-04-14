@@ -54,6 +54,7 @@
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaiPande/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
@@ -132,6 +133,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiPande/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/SaiPande/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
