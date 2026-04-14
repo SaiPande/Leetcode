@@ -115,6 +115,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3330-find-the-original-typed-string-i](https://github.com/SaiPande/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 ## Sorting
 |  |
 | ------- |
