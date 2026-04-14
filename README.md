@@ -93,6 +93,7 @@
 | [0231-power-of-two](https://github.com/SaiPande/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -115,6 +116,7 @@
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiPande/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
