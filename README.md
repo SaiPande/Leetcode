@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -151,6 +152,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SaiPande/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -232,4 +234,12 @@
 |  |
 | ------- |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
