@@ -55,6 +55,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/SaiPande/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/SaiPande/Leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaiPande/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
 |  |
