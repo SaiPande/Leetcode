@@ -113,6 +113,7 @@
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPande/Leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
