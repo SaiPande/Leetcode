@@ -22,6 +22,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -248,6 +249,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiPande/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -280,6 +282,7 @@
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
