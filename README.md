@@ -38,6 +38,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiPande/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -77,6 +78,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SaiPande/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2325-decode-the-message](https://github.com/SaiPande/Leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
@@ -178,6 +180,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiPande/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/SaiPande/Leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
@@ -249,6 +252,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
