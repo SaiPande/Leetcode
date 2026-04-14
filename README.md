@@ -155,6 +155,7 @@
 | [0191-number-of-1-bits](https://github.com/SaiPande/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String Matching
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
