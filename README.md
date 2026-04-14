@@ -24,6 +24,7 @@
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/SaiPande/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -100,6 +101,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
+| [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
