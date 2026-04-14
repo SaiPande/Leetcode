@@ -152,6 +152,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SaiPande/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/SaiPande/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SaiPande/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
