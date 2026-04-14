@@ -105,6 +105,7 @@
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -153,6 +154,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
+| [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
+| [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
