@@ -18,6 +18,7 @@
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -324,6 +325,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiPande/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SaiPande/Leetcode/tree/master/1732-find-the-highest-altitude) |
