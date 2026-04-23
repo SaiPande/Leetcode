@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiPande/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaiPande/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiPande/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
@@ -132,6 +133,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaiPande/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
@@ -276,6 +278,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SaiPande/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SaiPande/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SaiPande/Leetcode/tree/master/0191-number-of-1-bits) |
