@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPande/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/SaiPande/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SaiPande/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -334,6 +335,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SaiPande/Leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/SaiPande/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/SaiPande/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
