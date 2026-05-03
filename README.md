@@ -232,6 +232,7 @@
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiPande/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SaiPande/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SaiPande/Leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
 |  |
 | ------- |
