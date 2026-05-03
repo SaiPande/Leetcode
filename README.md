@@ -23,6 +23,7 @@
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -145,6 +146,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SaiPande/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
