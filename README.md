@@ -36,6 +36,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/SaiPande/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/SaiPande/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -98,6 +99,7 @@
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/SaiPande/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/SaiPande/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/SaiPande/Leetcode/tree/master/1496-path-crossing) |
@@ -129,6 +131,7 @@
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SaiPande/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -142,6 +145,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SaiPande/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SaiPande/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -257,6 +261,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/SaiPande/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
