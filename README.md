@@ -195,6 +195,7 @@
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/SaiPande/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/SaiPande/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SaiPande/Leetcode/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
