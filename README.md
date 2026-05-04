@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiPande/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/SaiPande/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SaiPande/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SaiPande/Leetcode/tree/master/0136-single-number) |
@@ -165,6 +166,7 @@
 | [0007-reverse-integer](https://github.com/SaiPande/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SaiPande/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/SaiPande/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/SaiPande/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/SaiPande/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -445,6 +447,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SaiPande/Leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
