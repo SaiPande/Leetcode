@@ -35,6 +35,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaiPande/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SaiPande/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -122,6 +123,7 @@
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SaiPande/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaiPande/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -393,6 +395,7 @@
 | [0206-reverse-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -572,6 +575,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -628,4 +632,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
