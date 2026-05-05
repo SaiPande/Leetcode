@@ -65,6 +65,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SaiPande/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/SaiPande/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiPande/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/SaiPande/Leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/SaiPande/Leetcode/tree/master/1652-defuse-the-bomb) |
@@ -144,6 +145,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/SaiPande/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/SaiPande/Leetcode/tree/master/1496-path-crossing) |
+| [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SaiPande/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
@@ -230,6 +232,7 @@
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
 | [1185-day-of-the-week](https://github.com/SaiPande/Leetcode/tree/master/1185-day-of-the-week) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -394,6 +397,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/SaiPande/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
