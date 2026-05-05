@@ -35,6 +35,7 @@
 | [0575-distribute-candies](https://github.com/SaiPande/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaiPande/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/SaiPande/Leetcode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SaiPande/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
@@ -485,6 +486,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiPande/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/SaiPande/Leetcode/tree/master/0605-can-place-flowers) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiPande/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
