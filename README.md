@@ -174,6 +174,7 @@
 | [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiPande/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -257,6 +258,7 @@
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -562,6 +564,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Matrix
