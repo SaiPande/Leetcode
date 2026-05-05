@@ -82,6 +82,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/SaiPande/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiPande/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SaiPande/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -451,6 +453,7 @@
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/SaiPande/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3360-stone-removal-game](https://github.com/SaiPande/Leetcode/tree/master/3360-stone-removal-game) |
+| [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
@@ -573,4 +576,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SaiPande/Leetcode/tree/master/0257-binary-tree-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
