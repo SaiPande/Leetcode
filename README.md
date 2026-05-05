@@ -158,6 +158,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiPande/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiPande/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiPande/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -325,6 +326,7 @@
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/SaiPande/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/SaiPande/Leetcode/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiPande/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -403,6 +405,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SaiPande/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/SaiPande/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SaiPande/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Linked List
