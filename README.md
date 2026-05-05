@@ -490,6 +490,7 @@
 | [0257-binary-tree-paths](https://github.com/SaiPande/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SaiPande/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [0257-binary-tree-paths](https://github.com/SaiPande/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SaiPande/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | [0404-sum-of-left-leaves](https://github.com/SaiPande/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SaiPande/Leetcode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -567,11 +570,13 @@
 | [0226-invert-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SaiPande/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/SaiPande/Leetcode/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
