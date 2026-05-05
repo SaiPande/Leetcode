@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/SaiPande/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SaiPande/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
@@ -113,6 +114,7 @@
 | [0409-longest-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/SaiPande/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
