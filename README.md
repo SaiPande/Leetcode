@@ -28,6 +28,7 @@
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/SaiPande/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SaiPande/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
@@ -110,6 +111,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/SaiPande/Leetcode/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
@@ -414,6 +416,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiPande/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
@@ -607,4 +610,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
