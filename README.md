@@ -463,10 +463,12 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SaiPande/Leetcode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SaiPande/Leetcode/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/SaiPande/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Dynamic Programming
 |  |
@@ -501,4 +503,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SaiPande/Leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SaiPande/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
