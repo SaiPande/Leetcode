@@ -50,6 +50,7 @@
 | [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SaiPande/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/SaiPande/Leetcode/tree/master/1002-find-common-characters) |
+| [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -351,6 +352,7 @@
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/SaiPande/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -453,6 +455,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiPande/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
