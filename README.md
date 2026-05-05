@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SaiPande/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SaiPande/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
@@ -398,6 +399,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SaiPande/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SaiPande/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/SaiPande/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -485,4 +487,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SaiPande/Leetcode/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
