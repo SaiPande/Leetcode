@@ -91,6 +91,7 @@
 | [0141-linked-list-cycle](https://github.com/SaiPande/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiPande/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SaiPande/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SaiPande/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiPande/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SaiPande/Leetcode/tree/master/0242-valid-anagram) |
@@ -140,6 +141,7 @@
 | [0125-valid-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SaiPande/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiPande/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SaiPande/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +184,7 @@
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiPande/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SaiPande/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/SaiPande/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SaiPande/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
