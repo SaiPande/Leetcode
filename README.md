@@ -62,6 +62,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SaiPande/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SaiPande/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/SaiPande/Leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SaiPande/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SaiPande/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
