@@ -3,7 +3,6 @@ class Solution:
         
         i = 0
         j = len(s) -1
-        temp = ''
         slist = list(s)
         while i<j:    
 
@@ -15,6 +14,5 @@ class Solution:
                 slist[i], slist[j] = slist[j], slist[i] 
                 i+=1
                 j-=1
-
         return ''.join(slist)           
                 
