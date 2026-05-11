@@ -23,6 +23,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SaiPande/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/SaiPande/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SaiPande/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -184,6 +185,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiPande/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SaiPande/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/SaiPande/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SaiPande/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
