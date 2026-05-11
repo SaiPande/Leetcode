@@ -91,6 +91,7 @@
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/SaiPande/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SaiPande/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -534,6 +535,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/SaiPande/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/SaiPande/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiPande/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/SaiPande/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
