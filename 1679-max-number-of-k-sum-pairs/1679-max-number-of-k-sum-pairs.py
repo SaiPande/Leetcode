@@ -5,7 +5,6 @@ class Solution:
 
         for i in nums:
             dict1[i] = dict1.get(i,0)+1
-        print(dict1)
         count = 0
         seen = set()
         for key,value in dict1.items():
