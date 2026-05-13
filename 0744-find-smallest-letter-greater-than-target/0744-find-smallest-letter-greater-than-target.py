@@ -1,13 +1,12 @@
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
-        targetletter = ord(target)
-        minimum = 99999
-        minmaxletter = ''
-        for i in range(len(letters)):
-            if ord(letters[i]) > targetletter and  ord(letters[i]) < minimum:
-                minimum = ord(letters[i])
-                minmaxletter = letters[i]
-        if minmaxletter != '':
-            return minmaxletter
-        else:
-            return letters[0]           
+        low = 0
+        high = len(letters)-1
+
+        while low<= high:
+            mid = low + ((high-low)//2)
+            if letters[mid] <= target:
+                low = mid+1
+            else:
+                high = mid-1
+        return letters[low%len(letters)]
