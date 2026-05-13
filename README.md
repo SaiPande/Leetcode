@@ -41,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SaiPande/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/SaiPande/Leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/SaiPande/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/SaiPande/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SaiPande/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/SaiPande/Leetcode/tree/master/0724-find-pivot-index) |
@@ -225,6 +226,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SaiPande/Leetcode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/SaiPande/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
