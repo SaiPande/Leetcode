@@ -251,6 +251,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SaiPande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SaiPande/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SaiPande/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SaiPande/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiPande/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -482,6 +483,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SaiPande/Leetcode/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Counting Sort
 |  |
@@ -548,6 +550,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiPande/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SaiPande/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
