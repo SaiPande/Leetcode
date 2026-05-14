@@ -9,4 +9,4 @@ class Solution:
         set1 = set(lst)
         if len(lst) == len(set1):
             return True
-        return False    
+        return False
