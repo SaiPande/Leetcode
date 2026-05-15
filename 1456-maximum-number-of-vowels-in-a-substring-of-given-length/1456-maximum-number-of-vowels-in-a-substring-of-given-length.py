@@ -12,7 +12,6 @@ class Solution:
                     
         for i in range(k,len(s)):
             departing = s[i-k]
-            window = s[i-k+1 : i+1]
             if s[i] in 'aeiouAEIOU':
                 cnt+=1   
             if cnt > 0 and departing in 'aeiouAEIOU':
