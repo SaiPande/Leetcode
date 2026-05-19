@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
+                if not head:
             return None
         if head and not head.next:
             return head
@@ -21,4 +21,4 @@ class Solution:
             prev = current
             current = future                     
 
-        return prev        
+        return prev   
