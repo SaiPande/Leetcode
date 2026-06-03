@@ -118,6 +118,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SaiPande/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
 | ------- |
@@ -405,6 +408,7 @@
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/SaiPande/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -564,6 +568,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
 | ------- |
