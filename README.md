@@ -288,6 +288,7 @@
 | [3360-stone-removal-game](https://github.com/SaiPande/Leetcode/tree/master/3360-stone-removal-game) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -658,6 +659,7 @@
 | [0392-is-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -750,4 +752,8 @@
 | ------- |
 | [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SaiPande/Leetcode/tree/master/0706-design-hashmap) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
