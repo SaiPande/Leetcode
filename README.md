@@ -96,6 +96,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SaiPande/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SaiPande/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -173,6 +174,7 @@
 | [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SaiPande/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/SaiPande/Leetcode/tree/master/2325-decode-the-message) |
@@ -630,6 +632,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -650,6 +653,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SaiPande/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
 | ------- |
