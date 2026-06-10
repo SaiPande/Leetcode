@@ -6,15 +6,17 @@ class Solution:
         if start == target:
             return 0
         minval = 99999
-        for i in range(len(nums)):
+        i=0
+        j=len(nums)-1
+        while i<=j:
             if nums[i] == target:
                 dis = abs(i-start)
                 if minval> dis:
                     minval = dis
-
-        for i in range(len(nums)-1,-1,-1):
-            if nums[i] == target:
-                dis = abs(i-start)
+            if nums[j] == target:
+                dis = abs(j-start)
                 if minval> dis:
                     minval = dis        
+            i+=1
+            j-=1
         return minval                
