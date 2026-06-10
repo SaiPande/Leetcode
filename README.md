@@ -277,6 +277,7 @@
 | [0231-power-of-two](https://github.com/SaiPande/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SaiPande/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/SaiPande/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/SaiPande/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiPande/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
@@ -778,4 +779,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/SaiPande/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
