@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SaiPande/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SaiPande/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/SaiPande/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SaiPande/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SaiPande/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaiPande/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -574,6 +575,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiPande/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SaiPande/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiPande/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/SaiPande/Leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/SaiPande/Leetcode/tree/master/0605-can-place-flowers) |
@@ -671,6 +673,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaiPande/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiPande/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiPande/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
