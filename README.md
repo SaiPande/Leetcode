@@ -220,6 +220,7 @@
 | [0443-string-compression](https://github.com/SaiPande/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiPande/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/SaiPande/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/SaiPande/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -336,6 +337,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiPande/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SaiPande/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/SaiPande/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/SaiPande/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/SaiPande/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SaiPande/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/SaiPande/Leetcode/tree/master/0796-rotate-string) |
