@@ -4,7 +4,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
 
-        #DUTCH NATIONAL FLAG ALGORITHM
+        #DUTCH NATIONAL FLAG ALGORITHM - referred solution. 
         # have 3 pointers for each color
         # left, mid = 0 and right = len(nums)-1
         # and check the mid, if its 0 swap to left, if it right swap with right, else leave it as is
@@ -24,7 +24,7 @@ class Solution:
                 m+=1
 
 
-
+        #better i think
         # count0red = 0
         # count1white = 0
         # count2blue = 0
@@ -40,7 +40,7 @@ class Solution:
         # nums[:] = [0]*count0red+[1]*count1white+[2]*count2blue       
 
 
-
+        #bruteforce
         # for i in range(len(nums)):
         #     swapped = False
 
