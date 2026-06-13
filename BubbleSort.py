@@ -21,5 +21,5 @@ if __name__ == "__main__":
     t = s.bubblesort(lst)
     print(t)
 
-#PS C:\Users\saipa\OneDrive\Documentos\StatShield> python3 BubbleSortClass.py
+#PS > python3 BubbleSortClass.py
 [3, 3, 5, 5, 7, 8, 12, 54, 55, 234, 234, 789, 6774]
