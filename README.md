@@ -128,6 +128,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaiPande/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SaiPande/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -617,6 +619,7 @@
 | [3360-stone-removal-game](https://github.com/SaiPande/Leetcode/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
 | ------- |
