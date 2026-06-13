@@ -6,10 +6,14 @@ class Solution:
         finaloutput =[]
 
         for i in range(len(nums)-2):
+            if nums[i]>0:
+                break
+
             if i>0 and nums[i] == nums[i-1]:
                 continue
             l = i+1
             r = len(nums)-1
+
 
             while l<r:
                 if nums[l]+nums[r]+nums[i] < 0:
