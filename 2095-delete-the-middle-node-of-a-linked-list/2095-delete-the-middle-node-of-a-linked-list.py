@@ -10,12 +10,10 @@ class Solution:
 
         slow = head 
         fast = head
-        length = 0
         while fast and fast.next:
             slowprev = slow
             slow = slow.next
             fast = fast.next.next
-            length += 1
         
         slowprev.next = slow.next  
         slow.next = None
