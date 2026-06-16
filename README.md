@@ -411,6 +411,7 @@
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3582-generate-tag-for-video-caption](https://github.com/SaiPande/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
+| [3612-process-string-with-special-operations-i](https://github.com/SaiPande/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -639,6 +640,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/SaiPande/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
+| [3612-process-string-with-special-operations-i](https://github.com/SaiPande/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
