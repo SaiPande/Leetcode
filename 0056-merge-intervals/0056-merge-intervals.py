@@ -6,7 +6,7 @@ class Solution:
         nonoverlaplist = []
         nonoverlaplist.append(intervals[0])
         for i in range(1,len(intervals)):
-            if intervals[i][0] <= nonoverlaplist[-1][1]:
+            if nonoverlaplist and intervals[i][0] <= nonoverlaplist[-1][1]:
                 nonoverlaplist[-1][1] = max(nonoverlaplist[-1][1], intervals[i][1])   
             else:
                 nonoverlaplist.append(intervals[i])   
