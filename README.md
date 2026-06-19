@@ -27,6 +27,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiPande/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiPande/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiPande/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiPande/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SaiPande/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SaiPande/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@
 | [0013-roman-to-integer](https://github.com/SaiPande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/SaiPande/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SaiPande/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiPande/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SaiPande/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiPande/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SaiPande/Leetcode/tree/master/0169-majority-element) |
@@ -849,4 +851,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiPande/Leetcode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaiPande/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
