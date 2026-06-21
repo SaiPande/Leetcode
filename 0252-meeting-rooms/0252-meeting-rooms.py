@@ -4,7 +4,6 @@ class Solution:
             return True
         else:
             intervals.sort(key=lambda x: x[1]) 
-            print(intervals)
             prev = intervals[0] 
             for i in range(1,len(intervals)):
                 if intervals[i][0]<prev[1]:
