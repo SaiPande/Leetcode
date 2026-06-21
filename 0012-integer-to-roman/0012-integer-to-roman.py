@@ -8,10 +8,8 @@ class Solution:
         romanlst = []
         for key, value in romandict.items():  
             if num == 0:
-                break 
-            count = 0     
+                break     
             while num>=key:
                 num-=key
-                count+=1
-            romanlst.append(value*count)
+                romanlst.append(value)
         return ''.join(romanlst)
