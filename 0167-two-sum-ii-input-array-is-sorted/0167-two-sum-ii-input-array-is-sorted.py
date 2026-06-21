@@ -4,5 +4,5 @@ class Solution:
 
         for i, num in enumerate(numbers,1):
             if target - num in dict1:
-                return sorted([i, dict1[target - num]])
+                return [dict1[target - num],i]
             dict1[num] = i
