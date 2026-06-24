@@ -415,6 +415,7 @@
 | [2129-capitalize-the-title](https://github.com/SaiPande/Leetcode/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SaiPande/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/SaiPande/Leetcode/tree/master/2325-decode-the-message) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -605,6 +606,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiPande/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -667,6 +669,7 @@
 | [1929-concatenation-of-array](https://github.com/SaiPande/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaiPande/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiPande/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/SaiPande/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
