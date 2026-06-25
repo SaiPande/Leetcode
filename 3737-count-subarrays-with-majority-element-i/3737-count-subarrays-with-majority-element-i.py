@@ -5,6 +5,8 @@ class Solution:
         # for i in range(len(nums)):
         #     for j in range(i,len(nums)):
         #         substr1.append(nums[i:j+1])
+        
+        # Based on "Boyer-Moore Majority Voting Algorithm
         majoritycount = 0
         for i in range(len(nums)):
             cnt = 0
