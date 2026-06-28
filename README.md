@@ -105,6 +105,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaiPande/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/SaiPande/Leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiPande/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiPande/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SaiPande/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SaiPande/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SaiPande/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -487,6 +488,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaiPande/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiPande/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiPande/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
@@ -670,6 +672,7 @@
 | [0680-valid-palindrome-ii](https://github.com/SaiPande/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiPande/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiPande/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiPande/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
