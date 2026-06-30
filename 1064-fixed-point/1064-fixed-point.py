@@ -9,11 +9,11 @@ class Solution:
 
             if arr[mid] == mid:
                 ans = mid      
-                r = mid - 1    
+                r = mid - 1    # didnt figure out this, need to revisit
             elif arr[mid] < mid:
                 l = mid + 1    
             else:
-                r = mid - 1    
+                r = mid - 1    # didnt figure out this, need to revisit
         return ans        
                        
         # for i,num in enumerate(arr):
