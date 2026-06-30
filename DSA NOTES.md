@@ -1,6 +1,6 @@
-**DSA NOTES**
+# DSA NOTES
 
-***1. Boyer-Moore Majority Voting Algorithm O(n)*** -> 
+### 1. Boyer-Moore Majority Voting Algorithm O(n)-> 
 Every number in the array is like a candidate.
 Each time the number appears, it gets one vote.
 When two different candidates meet, they knock each other out.
@@ -18,3 +18,16 @@ class Solution:
                     majoritycount += 1
         return majoritycount 
 ```
+
+### 2. Binary Search Cheatsheet O(logn) ->
+
+| Feature | `while l <= r` | `while l < r` |
+| :--- | :--- | :--- |
+| **Primary Goal** | Find a specific value. | Find a boundary, condition change, or optimal index. |
+| **Exact Use Cases** | • Checking if a target exists<br>• Finding a specific key in a standard sorted array | • Finding the **smallest/largest** index<br>• Finding the **first/last** occurrence<br>• Finding the **insert position** (Lower/Upper Bound)<br>• Peak finding or optimization problems |
+| **Early Exit?** | **Yes.** Returns immediately when `arr[mid] == target`. | **No.** Runs until the search space shrinks to a single element. |
+| **Right Update** | `r = mid - 1` (Excludes `mid` entirely) | `r = mid` (Keeps `mid` as a potential candidate) |
+| **Left Update** | `l = mid + 1` | `l = mid + 1` (or `l = mid` for upper bound templates) |
+| **Loop Ends When** | `l > r` (The search space is completely empty). | `l == r` (Exactly **one** element remains). |
+| **Post-Check Needed?** | **No.** If the loop ends, the target definitely does not exist. | **Yes.** You must verify if `arr[l]` meets your condition. |
+
