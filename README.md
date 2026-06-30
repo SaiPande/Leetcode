@@ -77,6 +77,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/SaiPande/Leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
+| [1064-fixed-point](https://github.com/SaiPande/Leetcode/tree/master/1064-fixed-point) |
 | [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -298,6 +299,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/SaiPande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SaiPande/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1064-fixed-point](https://github.com/SaiPande/Leetcode/tree/master/1064-fixed-point) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
