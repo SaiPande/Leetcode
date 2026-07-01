@@ -150,6 +150,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaiPande/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SaiPande/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/SaiPande/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -507,6 +508,7 @@
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/SaiPande/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Bit Manipulation
 |  |
 | ------- |
