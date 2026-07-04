@@ -205,6 +205,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SaiPande/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/SaiPande/Leetcode/tree/master/1436-destination-city) |
+| [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [1496-path-crossing](https://github.com/SaiPande/Leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SaiPande/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -763,6 +764,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiPande/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
@@ -861,6 +863,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiPande/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -877,6 +880,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiPande/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
