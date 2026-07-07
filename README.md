@@ -362,6 +362,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiPande/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
