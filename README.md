@@ -115,6 +115,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SaiPande/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/SaiPande/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SaiPande/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/SaiPande/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -350,6 +351,7 @@
 | [1390-four-divisors](https://github.com/SaiPande/Leetcode/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -620,6 +622,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SaiPande/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SaiPande/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaiPande/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
