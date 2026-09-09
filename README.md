@@ -133,6 +133,7 @@
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SaiPande/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/SaiPande/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/SaiPande/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -472,6 +473,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SaiPande/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SaiPande/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/SaiPande/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
