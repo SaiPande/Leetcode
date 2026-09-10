@@ -807,6 +807,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaiPande/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiPande/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -832,6 +833,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SaiPande/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaiPande/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -910,6 +912,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaiPande/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiPande/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
