@@ -368,6 +368,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SaiPande/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/SaiPande/Leetcode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SaiPande/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1009,4 +1010,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiPande/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SaiPande/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
