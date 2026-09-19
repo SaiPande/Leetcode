@@ -73,6 +73,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/SaiPande/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/SaiPande/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -326,6 +327,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/SaiPande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SaiPande/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/SaiPande/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1064-fixed-point](https://github.com/SaiPande/Leetcode/tree/master/1064-fixed-point) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SaiPande/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SaiPande/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
