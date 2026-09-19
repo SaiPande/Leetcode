@@ -112,6 +112,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/SaiPande/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/SaiPande/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SaiPande/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1762-buildings-with-an-ocean-view](https://github.com/SaiPande/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/SaiPande/Leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiPande/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiPande/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -693,6 +694,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/SaiPande/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1762-buildings-with-an-ocean-view](https://github.com/SaiPande/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [2000-reverse-prefix-of-word](https://github.com/SaiPande/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiPande/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -978,6 +980,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaiPande/Leetcode/tree/master/0739-daily-temperatures) |
+| [1762-buildings-with-an-ocean-view](https://github.com/SaiPande/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 ## Hash Function
 |  |
 | ------- |
