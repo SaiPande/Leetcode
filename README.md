@@ -82,6 +82,7 @@
 | [1002-find-common-characters](https://github.com/SaiPande/Leetcode/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
 | [1064-fixed-point](https://github.com/SaiPande/Leetcode/tree/master/1064-fixed-point) |
+| [1086-high-five](https://github.com/SaiPande/Leetcode/tree/master/1086-high-five) |
 | [1089-duplicate-zeros](https://github.com/SaiPande/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -214,6 +215,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/SaiPande/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SaiPande/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/SaiPande/Leetcode/tree/master/1002-find-common-characters) |
+| [1086-high-five](https://github.com/SaiPande/Leetcode/tree/master/1086-high-five) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SaiPande/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -537,6 +539,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/SaiPande/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SaiPande/Leetcode/tree/master/1051-height-checker) |
+| [1086-high-five](https://github.com/SaiPande/Leetcode/tree/master/1086-high-five) |
 | [1122-relative-sort-array](https://github.com/SaiPande/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/SaiPande/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/SaiPande/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -797,6 +800,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1086-high-five](https://github.com/SaiPande/Leetcode/tree/master/1086-high-five) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiPande/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
