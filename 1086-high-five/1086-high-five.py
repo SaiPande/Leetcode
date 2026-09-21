@@ -2,16 +2,20 @@ from collections import defaultdict
 class Solution:
 
     def highFive(self, items: list[list[int]]) -> list[list[int]]:
-        student_scores = defaultdict(list)
-        for student_id, score in items:
-            student_scores[student_id].append(score)
+        studentscore = {}
+        output = []
 
-        result = []
+        for i in items:
+            if i[0] in studentscore:
+                studentscore[i[0]].append(i[1])
+            else:
+                studentscore[i[0]] = [i[1]]  
 
-        for student_id, scores in student_scores.items():
-            scores.sort(reverse=True)
-            top_five_avg = sum(scores[:5]) // 5
-            result.append([student_id, top_five_avg])
-        result.sort(key=lambda x: x[0])
+        for key, value in studentscore.items():
+            value.sort(reverse = True)
+            avg = sum(value[:5])//5
+            output.append([key,avg])
 
-        return result
+        output.sort(key=lambda x:x[0])
+
+        return output    
