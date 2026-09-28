@@ -508,6 +508,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SaiPande/Leetcode/tree/master/3110-score-of-a-string) |
+| [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/SaiPande/Leetcode/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3136-valid-word](https://github.com/SaiPande/Leetcode/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3330-find-the-original-typed-string-i](https://github.com/SaiPande/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
@@ -561,6 +562,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/SaiPande/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/SaiPande/Leetcode/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -762,6 +764,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/SaiPande/Leetcode/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaiPande/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
