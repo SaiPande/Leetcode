@@ -470,6 +470,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiPande/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SaiPande/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1236-web-crawler](https://github.com/SaiPande/Leetcode/tree/master/1236-web-crawler) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SaiPande/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SaiPande/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/SaiPande/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -922,6 +923,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/SaiPande/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SaiPande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1236-web-crawler](https://github.com/SaiPande/Leetcode/tree/master/1236-web-crawler) |
 ## Design
 |  |
 | ------- |
@@ -957,6 +959,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1236-web-crawler](https://github.com/SaiPande/Leetcode/tree/master/1236-web-crawler) |
 | [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SaiPande/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SaiPande/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -976,6 +979,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SaiPande/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SaiPande/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1236-web-crawler](https://github.com/SaiPande/Leetcode/tree/master/1236-web-crawler) |
 | [1490-clone-n-ary-tree](https://github.com/SaiPande/Leetcode/tree/master/1490-clone-n-ary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiPande/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
