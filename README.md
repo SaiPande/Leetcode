@@ -196,6 +196,7 @@
 | [0290-word-pattern](https://github.com/SaiPande/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0359-logger-rate-limiter](https://github.com/SaiPande/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/SaiPande/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SaiPande/Leetcode/tree/master/0389-find-the-difference) |
@@ -926,6 +927,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SaiPande/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0288-unique-word-abbreviation](https://github.com/SaiPande/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0359-logger-rate-limiter](https://github.com/SaiPande/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0705-design-hashset](https://github.com/SaiPande/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SaiPande/Leetcode/tree/master/0706-design-hashmap) |
 ## Depth-First Search
@@ -1043,4 +1045,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/SaiPande/Leetcode/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
