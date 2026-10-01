@@ -657,6 +657,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SaiPande/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SaiPande/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3062-winner-of-the-linked-list-game](https://github.com/SaiPande/Leetcode/tree/master/3062-winner-of-the-linked-list-game) |
 ## Recursion
 |  |
 | ------- |
