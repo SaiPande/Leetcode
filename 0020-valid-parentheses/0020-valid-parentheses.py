@@ -1,5 +1,6 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        freq = {')':'(', ']':'[','}':'{'}
         stack = []
         if len(s) < 2:
             return False
@@ -26,5 +27,4 @@ class Solution:
         if len(stack) == 0:
             return True
         else:
-            return False    
-
+            return False 
