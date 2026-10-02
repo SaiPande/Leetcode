@@ -156,6 +156,7 @@
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiPande/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3024-type-of-triangle](https://github.com/SaiPande/Leetcode/tree/master/3024-type-of-triangle) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/SaiPande/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiPande/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -390,6 +391,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3024-type-of-triangle](https://github.com/SaiPande/Leetcode/tree/master/3024-type-of-triangle) |
 | [3280-convert-date-to-binary](https://github.com/SaiPande/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SaiPande/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/SaiPande/Leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
@@ -566,6 +568,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SaiPande/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/SaiPande/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [3024-type-of-triangle](https://github.com/SaiPande/Leetcode/tree/master/3024-type-of-triangle) |
 | [3119-maximum-number-of-potholes-that-can-be-fixed](https://github.com/SaiPande/Leetcode/tree/master/3119-maximum-number-of-potholes-that-can-be-fixed) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/SaiPande/Leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SaiPande/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1064,4 +1067,8 @@
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/SaiPande/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/SaiPande/Leetcode/tree/master/0362-design-hit-counter) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/SaiPande/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
