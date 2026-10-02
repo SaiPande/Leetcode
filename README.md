@@ -817,6 +817,7 @@
 | [0197-rising-temperature](https://github.com/SaiPande/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/SaiPande/Leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SaiPande/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [3059-find-all-unique-email-domains](https://github.com/SaiPande/Leetcode/tree/master/3059-find-all-unique-email-domains) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
