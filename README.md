@@ -74,6 +74,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SaiPande/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/SaiPande/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/SaiPande/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/SaiPande/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/SaiPande/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SaiPande/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/SaiPande/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -377,6 +378,7 @@
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/SaiPande/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SaiPande/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/SaiPande/Leetcode/tree/master/1185-day-of-the-week) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiPande/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1065,6 +1067,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SaiPande/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaiPande/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
@@ -1082,5 +1085,6 @@
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SaiPande/Leetcode/tree/master/0812-largest-triangle-area) |
 | [3024-type-of-triangle](https://github.com/SaiPande/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
