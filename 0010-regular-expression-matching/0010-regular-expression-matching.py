@@ -18,10 +18,7 @@ class Solution:
                 if j < len(s) and (s[j] == prev or prev == '.'):
                     stack.append((i, j + 1)) 
                 i += 2   
-            elif i< len(p) and p[i] == '.':
-                i+=1
-                j+=1
-            elif j < len(s) and i<len(p) and p[i] == s[j]:
+            elif j < len(s) and i<len(p) and (p[i] == s[j] or p[i] == '.'):
                 i+=1
                 j+=1
             else:
