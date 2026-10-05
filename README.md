@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaiPande/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SaiPande/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/SaiPande/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaiPande/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SaiPande/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SaiPande/Leetcode/tree/master/0049-group-anagrams) |
@@ -277,6 +278,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiPande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiPande/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiPande/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SaiPande/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SaiPande/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SaiPande/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaiPande/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -711,6 +713,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SaiPande/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/SaiPande/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiPande/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -911,6 +914,7 @@
 | [0010-regular-expression-matching](https://github.com/SaiPande/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SaiPande/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SaiPande/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SaiPande/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SaiPande/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiPande/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1039,6 +1043,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SaiPande/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SaiPande/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SaiPande/Leetcode/tree/master/0739-daily-temperatures) |
 | [1762-buildings-with-an-ocean-view](https://github.com/SaiPande/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
