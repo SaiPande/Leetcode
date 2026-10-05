@@ -1,15 +1,18 @@
 class Solution:
     def scoreOfParentheses(self, s: str) -> int:
-        stk = [0]
+        stk = []
         score = 0
         deep = 0
         for i in s:
             if i == '(':
-                stk.append(0)
-                deep = 1
+                stk.append('(')
+                deep = len(stk)
             else:
-                top = stk.pop()
-                stk[-1] += max(2*top,1)
+                if stk:
+                    stk.pop()
+                    if deep == len(stk) + 1:
+                        score += 2 ** len(stk)
+                        deep = 0 
 
-        return stk.pop()
+        return score
 
