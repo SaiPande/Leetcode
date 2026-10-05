@@ -141,6 +141,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SaiPande/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SaiPande/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/SaiPande/Leetcode/tree/master/2361-minimum-costs-using-the-train-line) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/SaiPande/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -920,6 +921,7 @@
 | [0678-valid-parenthesis-string](https://github.com/SaiPande/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SaiPande/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1668-maximum-repeating-substring](https://github.com/SaiPande/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2361-minimum-costs-using-the-train-line](https://github.com/SaiPande/Leetcode/tree/master/2361-minimum-costs-using-the-train-line) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
