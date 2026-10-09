@@ -499,6 +499,7 @@
 | [1496-path-crossing](https://github.com/SaiPande/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/SaiPande/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/SaiPande/Leetcode/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiPande/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SaiPande/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -745,6 +746,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SaiPande/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SaiPande/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiPande/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/SaiPande/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1762-buildings-with-an-ocean-view](https://github.com/SaiPande/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
@@ -801,6 +803,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiPande/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SaiPande/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/SaiPande/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiPande/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/SaiPande/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SaiPande/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SaiPande/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1111,6 +1114,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiPande/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiPande/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiPande/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Data Stream
 |  |
