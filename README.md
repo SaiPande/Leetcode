@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiPande/Leetcode/tree/master/0283-move-zeroes) |
 | [0288-unique-word-abbreviation](https://github.com/SaiPande/Leetcode/tree/master/0288-unique-word-abbreviation) |
+| [0300-longest-increasing-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/SaiPande/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -344,6 +345,7 @@
 | [0259-3sum-smaller](https://github.com/SaiPande/Leetcode/tree/master/0259-3sum-smaller) |
 | [0268-missing-number](https://github.com/SaiPande/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SaiPande/Leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiPande/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0362-design-hit-counter](https://github.com/SaiPande/Leetcode/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/SaiPande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -939,6 +941,7 @@
 | [0055-jump-game](https://github.com/SaiPande/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiPande/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiPande/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/SaiPande/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
@@ -1137,4 +1140,8 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/SaiPande/Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/SaiPande/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
