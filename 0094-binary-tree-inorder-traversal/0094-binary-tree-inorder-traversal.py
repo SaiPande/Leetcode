@@ -5,13 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-            result = []
-            self.recurr(root, result)
-            return result
+    def inorderTraversal(self, root: TreeNode | None) -> list[int]:
+        if not root:
+            return []
+        elif root.left == None and root.right == None:
+            return [root.val]   
+        else:    
+            output = []
+            self.inorder(root, output)
+            return output
 
-    def recurr(self, root, result):
-        if root is not None:
-            self.recurr(root.left, result)
-            result.append(root.val)
-            self.recurr(root.right, result)
+    def inorder(self, root, output):
+        if root is not None: 
+            self.inorder(root.left, output)
+            output.append(root.val)
+            self.inorder(root.right, output)    
