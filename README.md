@@ -871,6 +871,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiPande/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1086-high-five](https://github.com/SaiPande/Leetcode/tree/master/1086-high-five) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/SaiPande/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SaiPande/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiPande/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiPande/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1146,4 +1147,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SaiPande/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/SaiPande/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+## Shortest Path
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/SaiPande/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/SaiPande/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
