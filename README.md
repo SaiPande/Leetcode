@@ -402,6 +402,7 @@
 | [1390-four-divisors](https://github.com/SaiPande/Leetcode/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SaiPande/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/SaiPande/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/SaiPande/Leetcode/tree/master/1518-water-bottles) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
@@ -839,6 +840,7 @@
 | [0946-validate-stack-sequences](https://github.com/SaiPande/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/SaiPande/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SaiPande/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1518-water-bottles](https://github.com/SaiPande/Leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/SaiPande/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SaiPande/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SaiPande/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
