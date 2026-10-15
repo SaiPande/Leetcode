@@ -164,6 +164,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiPande/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SaiPande/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiPande/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiPande/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/SaiPande/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiPande/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -265,6 +266,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/SaiPande/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/SaiPande/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiPande/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiPande/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/SaiPande/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SaiPande/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/SaiPande/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -1072,6 +1074,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiPande/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/SaiPande/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SaiPande/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
@@ -1170,4 +1173,8 @@
 |  |
 | ------- |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/SaiPande/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiPande/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
