@@ -413,6 +413,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SaiPande/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiPande/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SaiPande/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/SaiPande/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/SaiPande/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2864-maximum-odd-binary-number](https://github.com/SaiPande/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SaiPande/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -535,6 +536,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/SaiPande/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/SaiPande/Leetcode/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/SaiPande/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/SaiPande/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/SaiPande/Leetcode/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/SaiPande/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
