@@ -181,6 +181,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SaiPande/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SaiPande/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaiPande/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiPande/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SaiPande/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/SaiPande/Leetcode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3838-weighted-word-mapping](https://github.com/SaiPande/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -430,6 +431,7 @@
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SaiPande/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaiPande/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiPande/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiPande/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SaiPande/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiPande/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiPande/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
