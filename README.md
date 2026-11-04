@@ -55,6 +55,7 @@
 | [0414-third-maximum-number](https://github.com/SaiPande/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiPande/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiPande/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SaiPande/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SaiPande/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SaiPande/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -400,6 +401,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiPande/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SaiPande/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/SaiPande/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiPande/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/SaiPande/Leetcode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/SaiPande/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/SaiPande/Leetcode/tree/master/0976-largest-perimeter-triangle) |
